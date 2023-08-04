@@ -1,0 +1,1 @@
+Esse arquivo tem como finalidade testar as ferramentas do GITHUB, assim como o terminal e suas utilizações básicas.
